@@ -1,0 +1,20 @@
+{
+  "name": "polymer-cookie",
+  "version": "1.0.0",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.4"
+  },
+  "homepage": "https://github.com/Scarygami/polymer-cookie",
+  "_release": "1.0.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "1.0.0",
+    "commit": "55081c3a94c9674a749db8a2487d0a93e0794f91"
+  },
+  "_source": "git://github.com/Scarygami/polymer-cookie.git",
+  "_target": "^1.0.0",
+  "_originalSource": "Scarygami/polymer-cookie"
+}
